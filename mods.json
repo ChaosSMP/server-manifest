@@ -6,6 +6,13 @@
       "suffix": ".jar",
       "url": "https://github.com/ChaosSMP/server-manifest/releases/download/ServerRules-v1.1.2/serverrules-1.1.2.jar",
       "sha256": "cf10d92d11de5f7526702831060bb5dfae91a08001f3d9373f463313c966b7c7"
+    },
+    "seedguard": {
+      "prefix": "seedguard-",
+      "version": "1.0.1",
+      "suffix": ".jar",
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/SeedGuard-v1.0.1/seedguard-1.0.1.jar",
+      "sha256": "9ce85646fd759d48785c5012e75ee1e7b6ddbfffc76d87ca68cc01fcbcb3fb89"
     }
   }
 }
