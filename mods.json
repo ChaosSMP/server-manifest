@@ -1,0 +1,11 @@
+{
+  "mods": {
+    "serverrules": {
+      "prefix": "serverrules-",
+      "version": "1.0.14",
+      "suffix": ".jar",
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/ServerRules-v1.0.14//serverrules-1.0.14.jar",
+      "sha256": "068503b3f7a1c4d2f45c8e50c0c47360e6c6ed070fca9f4ca7c1c46080843c0e"
+    }
+  }
+}
