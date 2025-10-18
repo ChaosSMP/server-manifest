@@ -1,0 +1,9 @@
+{
+  "mods": {
+    "serverrules": {
+      "version": "",
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/ServerRules-v1.0.8/",
+      "sha256": "66d6fa40453e18e122f490bbdb57b829d219adad6af5b383f80525b0fe5cfe72"
+    }
+  }
+}
