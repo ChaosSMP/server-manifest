@@ -13,6 +13,13 @@
       "suffix": ".jar",
       "url": "https://github.com/ChaosSMP/server-manifest/releases/download/SeedGuard-v1.0.1/seedguard-1.0.1.jar",
       "sha256": "9ce85646fd759d48785c5012e75ee1e7b6ddbfffc76d87ca68cc01fcbcb3fb89"
+    },
+    "halloween-candies": {
+      "prefix": "halloween-candies-",
+      "version": "1.0.4",
+      "suffix": ".jar",
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/halloween-candies-v1.0.4/halloween-candies-1.0.4.jar",
+      "sha256": "af73785c7049a187ccdae3334bc0d5d82e57afa9df960d9ee790905c45352ba6"
     }
   }
 }
