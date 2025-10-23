@@ -9,10 +9,10 @@
     },
     "seedguard": {
       "prefix": "seedguard-",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "suffix": ".jar",
-      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/SeedGuard-v1.2.0/seedguard-1.2.0.jar",
-      "sha256": "3fd68307511b69c16ce597da1b9ed52a85f6be977c500f462d6980a90c4c5575"
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/SeedGuard-v1.2.1/seedguard-1.2.1.jar",
+      "sha256": "49072893bdb7f1823e5bbf11481f2837552c6c0dfc186825351305c7429e6ace"
     }
   }
 }
