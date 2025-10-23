@@ -2,10 +2,10 @@
   "mods": {
     "serverrules": {
       "prefix": "serverrules-",
-      "version": "1.3.2",
+      "version": "1.3.3",
       "suffix": ".jar",
-      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/ServerRules-v1.3.2/serverrules-1.3.2.jar",
-      "sha256": "9270eb19c975f3b6ceccd6a329fb3a1fc08f5ccf29f6b269f1882af0b4da05ca"
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/ServerRules-v1.3.3/serverrules-1.3.3.jar",
+      "sha256": "037e13b30a0611e1911b8772ef779f46bdd4e174524887a29dc920eab698b749"
     },
     "seedguard": {
       "prefix": "seedguard-",
