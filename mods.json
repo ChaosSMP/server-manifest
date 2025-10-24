@@ -13,6 +13,13 @@
       "suffix": ".jar",
       "url": "https://github.com/ChaosSMP/server-manifest/releases/download/SeedGuard-v1.2.1/seedguard-1.2.1.jar",
       "sha256": "49072893bdb7f1823e5bbf11481f2837552c6c0dfc186825351305c7429e6ace"
+    },
+    "sigma-repo": {
+      "prefix": "sigma-repo-",
+      "version": "1.0.1",
+      "suffix": ".jar",
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/Sigma-repo-v1.0.1/sigma-repo-1.0.1.jar",
+      "sha256": "9c51049d4cd6a19b89710d62f7e420530ad8e0c6362208153c9363824497367a"
     }
   }
 }
