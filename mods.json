@@ -14,13 +14,6 @@
       "url": "https://github.com/ChaosSMP/server-manifest/releases/download/SeedGuard-v1.2.1/seedguard-1.2.1.jar",
       "sha256": "49072893bdb7f1823e5bbf11481f2837552c6c0dfc186825351305c7429e6ace"
     },
-    "skibidi-sigma-mod": {
-      "prefix": "skibidi-sigma-mod-",
-      "version": "45.31.1",
-      "suffix": ".jar",
-      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/skibidi-sigma-mod-v45.31.1/skibidi-sigma-mod-45.31.1.jar",
-      "sha256": "562d4ee7252fbf8817701f5230b8af39fa67ff3705487d22cfa1ab5d36a7cdbf"
-    },
     "skibidi_sigma_mod": {
       "prefix": "skibidi_sigma_mod-",
       "version": "45.31.2",
