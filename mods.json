@@ -20,6 +20,13 @@
       "suffix": ".jar",
       "url": "https://github.com/ChaosSMP/server-manifest/releases/download/Sigma-repo-v1.0.1/sigma-repo-1.0.1.jar",
       "sha256": "9c51049d4cd6a19b89710d62f7e420530ad8e0c6362208153c9363824497367a"
+    },
+    "skibidi-sigma-mod": {
+      "prefix": "skibidi-sigma-mod-",
+      "version": "45.31.1",
+      "suffix": ".jar",
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/skibidi-sigma-mod-v45.31.1/skibidi-sigma-mod-45.31.1.jar",
+      "sha256": "562d4ee7252fbf8817701f5230b8af39fa67ff3705487d22cfa1ab5d36a7cdbf"
     }
   }
 }
