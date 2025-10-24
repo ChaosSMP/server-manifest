@@ -20,6 +20,13 @@
       "suffix": ".jar",
       "url": "https://github.com/ChaosSMP/server-manifest/releases/download/skibidi-sigma-mod-v45.31.1/skibidi-sigma-mod-45.31.1.jar",
       "sha256": "562d4ee7252fbf8817701f5230b8af39fa67ff3705487d22cfa1ab5d36a7cdbf"
+    },
+    "skibidi_sigma_mod": {
+      "prefix": "skibidi_sigma_mod-",
+      "version": "45.31.2",
+      "suffix": ".jar",
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/skibidi-sigma-mod-v45.31.2/skibidi_sigma_mod-45.31.2.jar",
+      "sha256": "4fda7d2c761a5f1a9d099757221785b10e6e86a5da64167c39550434f1a5c4d3"
     }
   }
 }
