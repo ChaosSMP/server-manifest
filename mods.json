@@ -16,10 +16,10 @@
     },
     "skibidi_sigma_mod": {
       "prefix": "skibidi_sigma_mod-",
-      "version": "45.31.2",
+      "version": "45.31.3",
       "suffix": ".jar",
-      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/skibidi-sigma-mod-v45.31.2/skibidi_sigma_mod-45.31.2.jar",
-      "sha256": "4fda7d2c761a5f1a9d099757221785b10e6e86a5da64167c39550434f1a5c4d3"
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/skibidi-sigma-mod-v45.31.3/skibidi_sigma_mod-45.31.3.jar",
+      "sha256": "270604d6bba23ae523f088400e73af6455141d8ce2f1ddd8ada54fd9e1d8f0a1"
     }
   }
 }
