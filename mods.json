@@ -23,10 +23,10 @@
     },
     "factions": {
       "prefix": "factions-",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "suffix": ".jar",
-      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/factions-v1.0.4/factions-1.0.4.jar",
-      "sha256": "b53db567fa89686e0e361b049044bcc7c5098196053895e261f0779427d05a9a"
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/factions-v1.0.5/factions-1.0.5.jar",
+      "sha256": "8abd755d48e663ac7f8cdd9c6ded0b7a382e9f35036ad41dbbae139f62393461"
     }
   }
 }
