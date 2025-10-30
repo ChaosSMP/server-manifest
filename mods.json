@@ -30,10 +30,10 @@
     },
     "halloweencandy": {
       "prefix": "halloweencandy-",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "suffix": ".jar",
-      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/halloweencandy-v1.0.5/halloweencandy-1.0.5.jar",
-      "sha256": "0251452e91f5e1140301c57c1eac9d7f59bca4c41e324f69f9bc4cd103248351"
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/halloweencandy-v1.0.6/halloweencandy-1.0.6.jar",
+      "sha256": "d7080b9f775d4cf0cd9bad92386e4d433acc18e8379ff636b5103af3949c9f01"
     }
   }
 }
