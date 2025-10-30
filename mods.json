@@ -28,13 +28,6 @@
       "url": "https://github.com/ChaosSMP/server-manifest/releases/download/factions-v1.0.5/factions-1.0.5.jar",
       "sha256": "8abd755d48e663ac7f8cdd9c6ded0b7a382e9f35036ad41dbbae139f62393461"
     },
-    "halloween-candies": {
-      "prefix": "halloween-candies-",
-      "version": "1.0.4",
-      "suffix": ".jar",
-      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/halloween-candies-v1.0.4/halloween-candies-1.0.4.jar",
-      "sha256": "af73785c7049a187ccdae3334bc0d5d82e57afa9df960d9ee790905c45352ba6"
-    },
     "halloweencandy": {
       "prefix": "halloweencandy-",
       "version": "1.0.5",
