@@ -34,6 +34,13 @@
       "suffix": ".jar",
       "url": "https://github.com/ChaosSMP/server-manifest/releases/download/halloweencandy-v1.0.6/halloweencandy-1.0.6.jar",
       "sha256": "d7080b9f775d4cf0cd9bad92386e4d433acc18e8379ff636b5103af3949c9f01"
+    },
+    "blightbeats": {
+      "prefix": "blightbeats-",
+      "version": "1.0.1",
+      "suffix": ".jar",
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/BlightBeats-v1.0.1/blightbeats-1.0.1.jar",
+      "sha256": "99bdde79a38ae0b9c38620b80d98a6f373485e7c5ea3caf99eb796d4d6a4030f"
     }
   }
 }
