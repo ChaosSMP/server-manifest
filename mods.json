@@ -37,10 +37,10 @@
     },
     "blightbeats": {
       "prefix": "blightbeats-",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "suffix": ".jar",
-      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/BlightBeats-v1.0.1/blightbeats-1.0.1.jar",
-      "sha256": "99bdde79a38ae0b9c38620b80d98a6f373485e7c5ea3caf99eb796d4d6a4030f"
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/BlightBeats-v1.0.2/blightbeats-1.0.2.jar",
+      "sha256": "d49efdbeac6e92f3e4bd8b2eca3d12522e32f3899e247fa03b9f99ca9dac00b4"
     },
     "custom_graves": {
       "prefix": "custom_graves-",
