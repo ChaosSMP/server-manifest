@@ -44,10 +44,10 @@
     },
     "custom_graves": {
       "prefix": "custom_graves-",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "suffix": ".jar",
-      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/custom_graves-v1.0.1/custom_graves-1.0.1.jar",
-      "sha256": "055dfdbf2df21fcf7102047ada4382d1fe2ba0e81e8b37eadb0e1d11c2935622"
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/custom_graves-v1.0.2/custom_graves-1.0.2.jar",
+      "sha256": "d17f3da4bc13bfe006054dc85edffb002be4a231f8c5b574a6219020f49ccb05"
     }
   }
 }
