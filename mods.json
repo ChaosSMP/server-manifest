@@ -23,10 +23,10 @@
     },
     "factions": {
       "prefix": "factions-",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "suffix": ".jar",
-      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/factions-v1.0.5/factions-1.0.5.jar",
-      "sha256": "8abd755d48e663ac7f8cdd9c6ded0b7a382e9f35036ad41dbbae139f62393461"
+      "url": "https://github.com/ChaosSMP/server-manifest/releases/download/factions-v1.0.6/factions-1.0.6.jar",
+      "sha256": "7c9a3a2a7131b8da8aec98bcdfeb58ad466bb79f0020531eb8e84f196406718d"
     },
     "halloweencandy": {
       "prefix": "halloweencandy-",
